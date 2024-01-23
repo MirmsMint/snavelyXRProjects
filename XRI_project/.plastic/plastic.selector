@@ -1,0 +1,4 @@
+repository "XRI_project@Mirmsmint@cloud"
+  path "/"
+    br "/main"
+    co "/main"
